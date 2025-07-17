@@ -5,18 +5,18 @@ function Skills() {
 
   useEffect(() => {
     setSkillsImg(() => [
-      "/public/img/skills logo/html.png",
-      "/public/img/skills logo/css.png",
-      "/public/img/skills logo/js.png",
-      "/public/img/skills logo/figma.png",
-      "/public/img/skills logo/react.png",
-      "/public/img/skills logo/redux.png",
-      "/public/img/skills logo/type-script.png",
-      "/public/img/skills logo/zod.png",
-      "/public/img/skills logo/next js.png",
-      "/public/img/skills logo/zustand.png",
-      "/public/img/skills logo/RHF.png",
-      "/public/img/skills logo/mongodb.png",
+      "/img/skills logo/html.png",
+      "/img/skills logo/css.png",
+      "/img/skills logo/js.png",
+      "/img/skills logo/figma.png",
+      "/img/skills logo/react.png",
+      "/img/skills logo/redux.png",
+      "/img/skills logo/type-script.png",
+      "/img/skills logo/zod.png",
+      "/img/skills logo/next js.png",
+      "/img/skills logo/zustand.png",
+      "/img/skills logo/RHF.png",
+      "/img/skills logo/mongodb.png",
     ]);
   }, []);
   console.log(skillsImg ? skillsImg : null);
