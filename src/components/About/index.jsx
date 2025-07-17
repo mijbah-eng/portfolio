@@ -1,0 +1,34 @@
+function About() {
+  return (
+    <div className="col-1">
+      <h2>About Me</h2>
+      <div className=" col-2 items-start">
+        <div id="side-img">
+          <img
+            className="rounded-2xl"
+            src="/img/about-img.jpg"
+            alt="about-img"
+          />
+        </div>
+        <div className="flex flex-col gap-6">
+          <p>
+            Hi, I’m a passionate Frontend Developer with a strong eye for design
+            and a deep love for building clean, user-friendly interfaces. I
+            specialize in turning complex ideas into smooth, responsive web
+            experiences that users love to interact with.
+          </p>
+          <p>
+            With a solid understanding of modern web technologies and a
+            dedication to writing clean, maintainable code, I focus on
+            delivering products that not only look great but also perform
+            seamlessly across all devices. Whether it’s crafting pixel-perfect
+            layouts or enhancing user experience through thoughtful
+            interactions, I bring creativity and precision to every project.
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default About;
