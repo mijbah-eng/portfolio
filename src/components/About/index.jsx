@@ -1,6 +1,6 @@
 function About() {
   return (
-    <div className="col-1">
+    <div id="#about" className="col-1">
       <h2>About Me</h2>
       <div className=" col-2 items-start">
         <div id="side-img">

@@ -9,6 +9,8 @@ function Skills() {
       "/img/skills logo/css.png",
       "/img/skills logo/js.png",
       "/img/skills logo/figma.png",
+      "/img/skills logo/gsap.jpeg",
+      "/img/skills logo/framer.jpeg",
       "/img/skills logo/react.png",
       "/img/skills logo/redux.png",
       "/img/skills logo/type-script.png",
@@ -22,7 +24,7 @@ function Skills() {
   console.log(skillsImg ? skillsImg : null);
 
   return (
-    <div className="section col-1">
+    <div id="#skills" className="section col-1">
       <h2>Skills</h2>
       <div className="col-mul">
         {skillsImg
