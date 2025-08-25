@@ -1,6 +1,7 @@
 import About from "./components/About";
 import Contant from "./components/Contant";
 import Footer from "./components/Footer";
+import Future_Projects from "./components/Future_Projects";
 import Hero from "./components/Hero";
 import Navber from "./components/Navber";
 import Projects from "./components/Projects";
@@ -15,6 +16,7 @@ function App() {
       <Hero />
       <About />
       <Projects />
+      <Future_Projects />
       <Skills />
       {/* <Contant /> */}
       <Footer />
