@@ -15,6 +15,13 @@ function Footer() {
         </svg>
 
         <a href="https://github.com/mijbah-eng" target="_blank">mijbah-eng</a>
+        
+      </div>
+      <div className="flex justify-center items-center gap-2">
+        @
+
+        <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwPkWtbhZklgCLBsfRgBfQRzCXsnQDRKMNxKcTHZDCJmKvPnptQnwhZTCRVHftgtTXtGGjv" target="_blank">mijbahkhandker@gmail.com</a>
+        
       </div>
     </div>
   );
