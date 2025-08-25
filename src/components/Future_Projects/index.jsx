@@ -2,7 +2,7 @@ function Future_Projects() {
   return (
     <div className="section col-1">
       <h2>Future Projects</h2>
-      <div className="flex flex-wrap gap-10">
+      <div className="flex justify-center items-center flex-wrap gap-10">
         <div className="w-2xs overflow-hidden rounded-md">
           <img src="/img/future_projects/fP1.png" alt="" />
           <h2>
