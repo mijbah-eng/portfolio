@@ -12,10 +12,11 @@ function About() {
         </div>
         <div className="flex flex-col gap-6">
           <p>
-            Hi, I’m a passionate Frontend Developer with a strong eye for design
-            and a deep love for building clean, user-friendly interfaces. I
-            specialize in turning complex ideas into smooth, responsive web
-            experiences that users love to interact with.
+            Hi, I’m a passionate Full Stack Developer with a strong eye for
+            design and a deep love for building clean, user-friendly digital
+            experiences. I specialize in turning complex ideas into smooth,
+            responsive, and functional web applications—from front-end
+            interfaces to back-end architecture.
           </p>
           <p>
             With a solid understanding of modern web technologies and a
