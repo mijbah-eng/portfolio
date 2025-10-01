@@ -13,7 +13,7 @@ function Hero() {
     link.click();
   }} className="cursor-pointer">Download Resume</Button>
         </div>
-        <div>
+        <div className="hidden md:block">
           <img className="rounded-full" src="/img/hero-img.jpg" alt="hero-img" />
         </div>
       </div>
